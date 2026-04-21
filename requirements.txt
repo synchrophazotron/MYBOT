@@ -1,0 +1,3 @@
+pyTelegraBotAPI
+duckduckgo_search
+python-dotenv
